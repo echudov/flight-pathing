@@ -1,5 +1,4 @@
-# madhav2-mgeimer2-echudov2-cyx2
-Final Project
+# CS225 Final Project
 
 ## Objective
 
